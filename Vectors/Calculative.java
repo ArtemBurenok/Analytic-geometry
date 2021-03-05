@@ -1,4 +1,4 @@
-package com.company;
+package sample;
 
 public interface Calculative {
     public double LengthVector();
